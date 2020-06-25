@@ -1,0 +1,15 @@
+.container {
+    padding-top: 1vw;
+    width: 100vw;
+    /* height: 10vh; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
+
+.movies {
+    overflow: auto;
+    height: 15vw;
+    width: 50vw;
+}
